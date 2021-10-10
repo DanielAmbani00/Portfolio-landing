@@ -1,0 +1,13 @@
+.resize {
+    width: 400px;
+    height: auto;
+
+}
+.heading {
+    font-weight: 800;
+    text-decoration: underline;
+    margin: auto;
+}
+.dt {
+    margin-top: 20px;
+}
